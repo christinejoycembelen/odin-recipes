@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #3b2f2f;
+}
+
+a:active {
+    color: #c19a6b;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #5c4033;
+    font-size: 100px;
+}
+
+.recipe-list {
+    font-family: Garamond, Georgia, 'Times New Roman', serif;
+    color: #c19a6b;
+    font-size: 30px;
+    padding: 0 50px;
+}
